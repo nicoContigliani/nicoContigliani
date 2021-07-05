@@ -13,6 +13,7 @@
                         data-canonical-src="https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg"
                         style="max-width:30%;"></a>
        
+       
        Tecnologías que uso:
    
        
