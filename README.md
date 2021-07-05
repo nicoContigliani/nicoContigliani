@@ -4,8 +4,7 @@
         
         
        <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina http://netlify.com</p>
-
-![Captura de pantalla de 2021-07-05 19-37-20](https://user-images.githubusercontent.com/48563081/124523975-92745b80-ddcf-11eb-9556-05b1a5eb63dc.png)![Captura de pantalla de 2021-07-05 19-44-21](https://user-images.githubusercontent.com/48563081/124523978-956f4c00-ddcf-11eb-83ba-e59dcc33479c.png)
+![maxresdefault](https://user-images.githubusercontent.com/48563081/124524068-ebdc8a80-ddcf-11eb-9d75-71d0a6964048.jpg)
 
        Tecnologías que uso:
 
