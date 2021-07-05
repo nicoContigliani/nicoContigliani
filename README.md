@@ -5,6 +5,14 @@
         
        <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina http://netlify.com</p>
        
+       
+            <a target="_blank" rel="noopener noreferrer"
+                    href="https://www.linkedin.com/in/nicolas-contigliani/"><img
+                        src="https://repository-images.githubusercontent.com/248812720/56902700-c5bd-11ea-813f-ed8631377258"
+                        alt="Soy Desarrollador Web "
+                        data-canonical-src="https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg"
+                        style="max-width:30%;"></a>
+       
        Tecnologías que uso:
    
        
