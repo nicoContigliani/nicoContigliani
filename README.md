@@ -5,9 +5,8 @@
         
        <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina http://netlify.com</p>
 
-            <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/125956ea9c9521b3cd3bd87ceedbb4cb90ec93f5e75f77809677f32a4d473db3/68747470733a2f2f6c61657374616e636961617a756c2e636f6d2f6d656469612f706f73742f72656163742d636c6f6e2d64652d77756e6465726c6973742d706172612d7072616374696361722d656c2d737461636b2d6d65726e2f62616e6e65725f6d65726e2e6a7067"><img src="https://camo.githubusercontent.com/125956ea9c9521b3cd3bd87ceedbb4cb90ec93f5e75f77809677f32a4d473db3/68747470733a2f2f6c61657374616e636961617a756c2e636f6d2f6d656469612f706f73742f72656163742d636c6f6e2d64652d77756e6465726c6973742d706172612d7072616374696361722d656c2d737461636b2d6d65726e2f62616e6e65725f6d65726e2e6a7067" alt="Soy Desarrollador web y Mentor Fullstack" data-canonical-src="https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg" style="max-width:100%;"></a>
-       
-       
+![Captura de pantalla de 2021-07-05 19-37-20](https://user-images.githubusercontent.com/48563081/124523975-92745b80-ddcf-11eb-9556-05b1a5eb63dc.png)![Captura de pantalla de 2021-07-05 19-44-21](https://user-images.githubusercontent.com/48563081/124523978-956f4c00-ddcf-11eb-83ba-e59dcc33479c.png)
+
        Tecnologías que uso:
 
       
