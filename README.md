@@ -6,7 +6,14 @@
        <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina http://netlify.com</p>
        
        Tecnologías que uso:
-           <p><a target="_blank" rel="noopener noreferrer"
+           <a target="_blank" rel="noopener noreferrer"
+                    href="https://www.linkedin.com/in/nicolas-contigliani/"><img
+                        src="https://repository-images.githubusercontent.com/248812720/56902700-c5bd-11ea-813f-ed8631377258"
+                        alt="Soy Desarrollador Web "
+                        data-canonical-src="https://laestanciaazul.com/media/post/react-clon-de-wunderlist-para-practicar-el-stack-mern/banner_mern.jpg"
+                        style="max-width:30%;"></a>
+
+                <p><a target="_blank" rel="noopener noreferrer"
                         href="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img
                             alt="HTML5"
                             src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
@@ -56,4 +63,3 @@
                             style="max-width:100%;"></a>
             </div>
             </p>
-        
