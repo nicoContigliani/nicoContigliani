@@ -18,7 +18,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/94c5a32b53c1771bd1a163fe0523aee22b624e1d613ec984e52686cda1cdb2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44656269616e2d4437304135333f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6f676f436f6c6f723d7768697465"><img alt="Debian" src="https://camo.githubusercontent.com/94c5a32b53c1771bd1a163fe0523aee22b624e1d613ec984e52686cda1cdb2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44656269616e2d4437304135333f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&amp;logo=debian&amp;logoColor=white" style="max-width:100%;"></a></p>
        
  <h4>Proyectos cortos:</h4>
-        Consumo de API, REACT, Laflet. (https://crimen-uk.netlify.app) 
+        Consumo de API, REACT, Laflet. Mapa del crimen en Londres(https://crimen-uk.netlify.app) 
+        Consumo de API y REACT. Busqueda de clima(https://weather-the-world.netlify.app) 
+        HTML,Javascript y css. Menú para restaurante(https://menu-restaurant.netlify.app/) 
        
        
        
