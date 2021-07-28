@@ -3,7 +3,7 @@
        <span> Desarrollador Web</span>
         
         
-       <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina http://netlify.com</p>
+       <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina htp://netlify.com</p>
 ![maxresdefault](https://user-images.githubusercontent.com/48563081/124524068-ebdc8a80-ddcf-11eb-9d75-71d0a6964048.jpg)
 
        Tecnologías que uso:
