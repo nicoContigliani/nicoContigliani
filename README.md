@@ -1,82 +1,77 @@
 <div align="center">
 
-<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2liZXJzZWd1cmlkYWR8ZW58MHx8MHx8fDA%3D"  background-size:cover width="100%" />
+<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=1200" width="100%" style="border-radius: 10px;" />
 
-<br/>
+# 👋 Hola, soy Nicolás Contigliani
+### **Senior Systems Analyst | Full Stack Developer | AppSec Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-contigliani)
-[![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico.contigliani@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492612444106)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-contigliani)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-00f2ff?style=for-the-badge&logo=react)](https://tu-portfolio.com)
+[![Contact](https://img.shields.io/badge/Direct-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5492612444106)
 
-<br/>
-
-### "La simplicidad es la máxima sofisticación, la seguridad es su base."
-**Analista de Sistemas** especializado en el desarrollo de software de alto rendimiento con una mentalidad **Security-by-Design**. Mi enfoque combina la elegancia del Frontend moderno con la robustez de infraestructuras protegidas.
+> **"La seguridad no es una característica, es la base de la elegancia funcional."** > Especialista en construir software de alto rendimiento con arquitectura **Security-by-Design**.
 
 </div>
 
 ---
 
-###  Master Arsenal (Bento Grid Style)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Software Engineering</h4>
-      <img src="https://img.shields.io/badge/Frontend-React.js%20|%20Next.js-00f2ff?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Backend-Node.js%20|%20NestJS-white?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Mobile-React%20Native%20|%20Expo-FFD700?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Data-PostgreSQL%20|%20MongoDB-lightgrey?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Cyber Intelligence</h4>
-      <img src="https://img.shields.io/badge/Security-Hardening%20|%20AppSec-red?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Infra-Linux%20|%20Docker-blue?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Networks-Cisco%20|%20LAN--WAN-grey?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Cloud-Azure%20Junior-0072C6?style=flat-square" />
-    </td>
-  </tr>
-</table>
+## 🎯 Propuesta de Valor
+Transformo problemas complejos en soluciones digitales **escalables, rápidas y blindadas**. Mi diferencial es la intersección entre el desarrollo de vanguardia (React/Node) y una sólida base en seguridad de infraestructura. No solo escribo código; aseguro la continuidad de tu negocio.
 
 ---
 
-### 📊 Performance Metrics (GitHub Core)
-
+## 🛠️ Tech Stack & Arsenal
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicoContigliani&show_icons=true&theme=transparent&title_color=00f2ff&icon_color=FFD700&text_color=ffffff&bg_color=00000000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoContigliani&layout=compact&theme=transparent&title_color=FFD700&text_color=ffffff&bg_color=00000000&hide_border=true" width="40%" />
+
+| **Frontend Core** | **Backend & Data** | **Cybersecurity & Ops** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+
 </div>
 
 ---
 
-### 💼 Professional Timeline
+## 🚀 Proyectos de Impacto (Case Studies)
 
-**OpenDev Pro** | *Full Stack & Security Engineer* > Desarrollo de ecosistemas críticos para profesionales legales y contables. Aseguramiento de APIs y despliegues orquestados en Docker con enfoque en integridad de datos.
+### 🛡️ UK Crime Intel | *Data Intelligence*
+* **Misión:** Visualización crítica de datos criminalísticos en tiempo real.
+* **Tech:** React + Leaflet + GeoJSON.
+* **Logro:** Optimización de renderizado para grandes volúmenes de datos geográficos.
+* [**Explorar Sistema ↗**](https://crimen-uk.netlify.app)
 
-**GDP Salud** | *Infrastructure & Software* > Administración de sistemas operativos y hardening de redes en entornos de salud productivos.
+### 🏥 GDP Salud | *Infrastructure & Dev*
+* **Misión:** Hardening de redes y desarrollo de software para entornos de salud.
+* **Impacto:** Reducción de vulnerabilidades en red interna y automatización de procesos clínicos.
 
-**Sistema Seguros** | *Lead Developer (Full Stack Project)* > Arquitectura completa MVC: **Node.js + PostgreSQL + React**. Implementación de seguridad en la capa de datos y automatización de procesos.
+### 📊 Sistema Seguros | *Lead Architecture*
+* **Misión:** Crear un ecosistema integral de gestión de pólizas y clientes.
+* **Tech:** Full Stack (React, Node, PostgreSQL).
+* **Logro:** Implementación de cifrado en capa de datos y arquitectura MVC escalable.
 
 ---
 
-### 🌐 Featured Deployments
-
-| System | Mission | Environment | Access |
-| :--- | :--- | :--- | :--- |
-| **UK Crime Intel** | Análisis de datos criminales | React + Leaflet | [Launch ↗](https://crimen-uk.netlify.app) |
-| **Weather Global** | Monitoreo climático real-time | React + API Rest | [Launch ↗](https://weather-the-world.netlify.app) |
-| **Gastro UX** | Interfaz de gestión digital | JS + CSS Grid | [Launch ↗](https://menu-restaurant.netlify.app/) |
+## 📈 Estadísticas de Desarrollo
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicoContigliani&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=FFD700&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoContigliani&layout=compact&theme=tokyonight&title_color=FFD700&hide_border=false" width="40%" />
+</div>
 
 ---
 
-### 🎓 Academic Clearance
+## 🎓 Formación y Certificaciones
 * **Analista Superior de Sistemas y Programación** (IES Belgrano)
 * **Técnico Univ. en Redes de Datos y Telecomunicaciones** (ITU-UNCuyo)
+* **Azure Cloud Fundamentals** | **Cisco Certified (CCNA)**
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs&theme=transparent&text_color=00f2ff" width="85%" />
-  <br/>
-  <sub>**© 2026 NICOLÁS CONTIGLIANI | MENDOZA, ARGENTINA**</sub>
+
+### 🤝 Hablemos de tu próximo proyecto
+¿Buscas un desarrollador que entienda la seguridad como una prioridad y no como un parche?  
+**[Agenda una reunión por WhatsApp](https://wa.me/5492612444106)**
+
+<sub>**© 2026 NICOLÁS CONTIGLIANI | MENDOZA, ARGENTINA**</sub>
 </div>
