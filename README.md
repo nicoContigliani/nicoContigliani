@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=1200" width="50%" style="border-radius: 10px;" />
+<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=1200"  object-fit:cover height: 100% width="100%" style="border-radius: 10px;" />
 
 # 👋 Hola, soy Nicolás Contigliani
 ### **Systems Analyst | Full Stack Developer | AppSec Specialist**
