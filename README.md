@@ -1,28 +1,82 @@
-<h1>Bienvenido a mi Respositorio  <h1>
-<h2>Hola soy Nicolás Contiglinai </h2>
-       <span> Desarrollador Web</span>
-        
-        
-       <p> Alguno de los proyectos que se encuentran en este Respositorio están deployados en la pagina htp://netlify.com</p>
-![maxresdefault](https://user-images.githubusercontent.com/48563081/124524068-ebdc8a80-ddcf-11eb-9d75-71d0a6964048.jpg)
+<div align="center">
 
-       Tecnologías que uso:
+<img src="https://www.shutterstock.com/image-photo/enhancing-cybersecurity-digital-age-protecting-600nw-2464336215.jpg?type=rect&color=1a1a1a&height=250&section=header&text=Nicolás%20Contigliani&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Analyst&descSize=20&descAlignY=65&fontColor=ffffff" width="100%" />
 
-      
-       
-       
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img alt="HTML5" src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img alt="CSS3" src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img alt="Bootstrap" src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"><img alt="React" src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85897f614edaa17505a713b88749e481cb6284fb203fa1550add3489dde0425a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465"><img alt="NodeJS" src="https://camo.githubusercontent.com/85897f614edaa17505a713b88749e481cb6284fb203fa1550add3489dde0425a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&amp;logo=node-dot-js&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642"><img alt="Express.js" src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" data-canonical-src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img alt="MongoDB" src="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/94c5a32b53c1771bd1a163fe0523aee22b624e1d613ec984e52686cda1cdb2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44656269616e2d4437304135333f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6f676f436f6c6f723d7768697465"><img alt="Debian" src="https://camo.githubusercontent.com/94c5a32b53c1771bd1a163fe0523aee22b624e1d613ec984e52686cda1cdb2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44656269616e2d4437304135333f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&amp;logo=debian&amp;logoColor=white" style="max-width:100%;"></a></p>
-       
- <h4>Proyectos cortos:</h4>
-       <br/>
-        Consumo de API, REACT, Laflet. Mapa del crimen en Londres(https://crimen-uk.netlify.app) 
-        <br/>
-        Consumo de API y REACT. Busqueda de clima(https://weather-the-world.netlify.app) 
-        <br/>
-        HTML,Javascript y css. Menú para restaurante(https://menu-restaurant.netlify.app/) 
-       
-       
-       
-       
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-contigliani)
+[![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico.contigliani@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492612444106)
+
+<br/>
+
+### "La simplicidad es la máxima sofisticación, la seguridad es su base."
+**Analista de Sistemas** especializado en el desarrollo de software de alto rendimiento con una mentalidad **Security-by-Design**. Mi enfoque combina la elegancia del Frontend moderno con la robustez de infraestructuras protegidas.
+
+</div>
+
+---
+
+###  Master Arsenal (Bento Grid Style)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Software Engineering</h4>
+      <img src="https://img.shields.io/badge/Frontend-React.js%20|%20Next.js-00f2ff?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Backend-Node.js%20|%20NestJS-white?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Mobile-React%20Native%20|%20Expo-FFD700?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Data-PostgreSQL%20|%20MongoDB-lightgrey?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cyber Intelligence</h4>
+      <img src="https://img.shields.io/badge/Security-Hardening%20|%20AppSec-red?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Infra-Linux%20|%20Docker-blue?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Networks-Cisco%20|%20LAN--WAN-grey?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Cloud-Azure%20Junior-0072C6?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics (GitHub Core)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicoContigliani&show_icons=true&theme=transparent&title_color=00f2ff&icon_color=FFD700&text_color=ffffff&bg_color=00000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoContigliani&layout=compact&theme=transparent&title_color=FFD700&text_color=ffffff&bg_color=00000000&hide_border=true" width="40%" />
+</div>
+
+---
+
+### 💼 Professional Timeline
+
+**OpenDev Pro** | *Full Stack & Security Engineer* > Desarrollo de ecosistemas críticos para profesionales legales y contables. Aseguramiento de APIs y despliegues orquestados en Docker con enfoque en integridad de datos.
+
+**GDP Salud** | *Infrastructure & Software* > Administración de sistemas operativos y hardening de redes en entornos de salud productivos.
+
+**Sistema Seguros** | *Lead Developer (Full Stack Project)* > Arquitectura completa MVC: **Node.js + PostgreSQL + React**. Implementación de seguridad en la capa de datos y automatización de procesos.
+
+---
+
+### 🌐 Featured Deployments
+
+| System | Mission | Environment | Access |
+| :--- | :--- | :--- | :--- |
+| **UK Crime Intel** | Análisis de datos criminales | React + Leaflet | [Launch ↗](https://crimen-uk.netlify.app) |
+| **Weather Global** | Monitoreo climático real-time | React + API Rest | [Launch ↗](https://weather-the-world.netlify.app) |
+| **Gastro UX** | Interfaz de gestión digital | JS + CSS Grid | [Launch ↗](https://menu-restaurant.netlify.app/) |
+
+---
+
+### 🎓 Academic Clearance
+* **Analista Superior de Sistemas y Programación** (IES Belgrano)
+* **Técnico Univ. en Redes de Datos y Telecomunicaciones** (ITU-UNCuyo)
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs&theme=transparent&text_color=00f2ff" width="85%" />
+  <br/>
+  <sub>**© 2026 NICOLÁS CONTIGLIANI | MENDOZA, ARGENTINA**</sub>
+</div>
