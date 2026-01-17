@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=1200" width="100%" style="border-radius: 10px;" />
+<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=1200" width="50%" style="border-radius: 10px;" />
 
 # 👋 Hola, soy Nicolás Contigliani
-### **Senior Systems Analyst | Full Stack Developer | AppSec Specialist**
+### **Systems Analyst | Full Stack Developer | AppSec Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-contigliani)
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-00f2ff?style=for-the-badge&logo=react)](https://tu-portfolio.com)
