@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://depositphotos.com/es/vectors/ciberseguridad.html" width="100%" />
+<img src="https://st4.depositphotos.com/1084193/39423/v/450/depositphotos_394238466-stock-illustration-cybersecurity-information-network-protection-future.jpg" width="100%" />
 
 <br/>
 
