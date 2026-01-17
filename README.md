@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.shutterstock.com/image-photo/enhancing-cybersecurity-digital-age-protecting-600nw-2464336215.jpg?type=rect&color=1a1a1a&height=250&section=header&text=Nicolás%20Contigliani&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Analyst&descSize=20&descAlignY=65&fontColor=ffffff" width="100%" />
+<img src="https://depositphotos.com/es/vectors/ciberseguridad.html" width="100%" />
 
 <br/>
 
